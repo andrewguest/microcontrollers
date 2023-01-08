@@ -1,0 +1,4 @@
+**/.pytest_cache
+**/secrets.json
+**/.vscode/
+**/secrets.h
